@@ -1,0 +1,30 @@
+@media screen and (max-width: 800px) {
+    .colorCode {
+        font-size: 2rem;
+    }
+
+    .genNewBtn {
+        width: 100px;
+        height: auto;
+        color: blue;
+        font-weight: bolder;
+        padding: 5px;
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .colorCode {
+        font-size: 1rem;
+    }
+
+    .genNewBtn {
+        width: 70px;
+        height: auto;
+        color: blue;
+        font-weight: bolder;
+        padding: 5px;
+        font-size: 0.5rem;
+    }
+}
+}
